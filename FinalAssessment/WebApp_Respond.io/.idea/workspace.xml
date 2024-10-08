@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99824765-a2ed-49b9-bca0-18f503ab5b28" name="Default Changelist" comment="" />
+    <list default="true" id="99824765-a2ed-49b9-bca0-18f503ab5b28" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtentReports/ExtentReportsResults.html" beforeDir="false" afterPath="$PROJECT_DIR$/ExtentReports/ExtentReportsResults.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/POM/LoginUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/POM/LoginUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/POM/UserAddition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/POM/UserAddition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/POM/UserDeletion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/POM/UserDeletion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/Listeners/TestListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/Listeners/TestListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/POM/LoginUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/POM/LoginUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/POM/UserAddition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/POM/UserAddition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/POM/UserDeletion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/POM/UserDeletion.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,14 +49,13 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1SN9fbGq2cNRbFmee8YvukDg73G" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../APIAutomation" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -64,7 +73,7 @@
       <recent name="C:\Users\hassan.anwer\IdeaProjects\testinginitialforms" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/hassan.anwer/Videos/Captures/WebApp_Respond.io/TestNG.xml">
+  <component name="RunManager" selected="TestNG.TestDriverClass (1)">
     <configuration name="C:/Users/hassan.anwer/IdeaProjects/testinginitialforms/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testinginitialforms" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNG.xml" />
@@ -142,8 +151,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/hassan.anwer/Videos/Captures/WebApp_Respond.io/TestNG.xml" />
         <item itemvalue="TestNG.TestDriverClass (1)" />
+        <item itemvalue="TestNG.C:/Users/hassan.anwer/Videos/Captures/WebApp_Respond.io/TestNG.xml" />
         <item itemvalue="TestNG.C:/Users/hassan.anwer/IdeaProjects/testinginitialforms/TestNG.xml" />
         <item itemvalue="TestNG.TestDriverClass.testb" />
         <item itemvalue="TestNG.TestDriverClass.testd" />
@@ -163,6 +172,29 @@
       <updated>1571393290665</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

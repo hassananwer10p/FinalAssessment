@@ -29,7 +29,6 @@ public class UserDeletion extends MainDriver_Class {
         return driver.findElement(By.xpath("//*[@id=\"root\"]/div[1]/div/section/ol/li/div/div"));
     }
 
-
     public WebElement closeToastMsg() {
         return driver.findElement(By.xpath("//*[@id=\"root\"]/div[1]/div/section/ol/li/div/div/div/div/div[2]/button"));
     }

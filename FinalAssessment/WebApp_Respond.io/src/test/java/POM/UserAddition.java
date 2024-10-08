@@ -21,7 +21,6 @@ public class UserAddition extends MainDriver_Class {
         return By.xpath("//a[@href='/space/252166/settings/users']/div/p/span[text()='Users']");
     }
 
-
     public WebElement navUsers() {
         return driver.findElement(By.xpath("//*[@id=\"root\"]/div[1]/div/div/main/div/div[2]/div/div[2]/div/div[1]/div/div[2]/div/div/div[2]/a[2]"));
     }
@@ -66,38 +65,5 @@ public class UserAddition extends MainDriver_Class {
     public By toaster() {
         return By.xpath("//span[@class='dls-txt-h5 dls-line-clamp-1 dls-break-all' and text()='Add User']");
     }
-
-
-
-
-
-
-
-
-    public WebElement formselect()
-    {
-        return driver.findElement(By.xpath(".//*[@id=\"navbar-brand-centered\"]/ul[1]/li[1]/ul/li[2]/a"));
-    }
-
-    public WebElement selectsinglecheckbox()
-    {
-        return driver.findElement(By.xpath("//*[@id='isAgeSelected']"));
-    }
-
-    public WebElement Option1()
-    {
-        return driver.findElement(By.xpath(".//*[@id='easycont']/div/div[2]/div[2]/div[2]/div[1]/label/input"));
-    }
-    public WebElement Option2()
-    {
-        return driver.findElement(By.xpath(".//*[@id='easycont']/div/div[2]/div[2]/div[2]/div[2]/label/input"));
-    }
-    public WebElement Option3()
-    {
-        return driver.findElement(By.xpath(".//*[@id='easycont']/div/div[2]/div[2]/div[2]/div[3]/label/input\n"));
-    }
-
-
-
 
 }
