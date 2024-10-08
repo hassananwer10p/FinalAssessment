@@ -1,0 +1,3 @@
+{"ownership":"agent",
+"permissions":[],
+"email":"suazadr4w465@tempmailto.org"}
